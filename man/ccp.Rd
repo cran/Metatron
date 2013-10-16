@@ -6,8 +6,7 @@
   Data from Nishimura (2007) of anti-cyclic citrullinated peptide antibody (anti-CCP) which report the four frequencies of the classification outcomes.
 }
 \usage{ccp}
-\format{
-   A data frame containing 7 variables and 37 observations. The variables are:
+\format{A data frame containing 7 variables and 37 observations. The variables are:
 \tabular{lll}{
   \bold{test} \tab \code{factor} \tab name of the screening test \cr 
   \bold{study_id} \tab \code{factor} \tab primary study name \cr

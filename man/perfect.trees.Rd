@@ -45,7 +45,7 @@ data(AUDIT)
 perfect.trees(TP=TP,FN=FN,TN=TN,FP=FP,study=study,data=AUDIT)
 ## data of the screening tool Mini Mental State Examination (MMSE) 
 data(MMSE)
-## fit the multinomial tree model 1, imperfect reference
+## fit the multinomial tree model 1, assuming imperfect reference
 perfect.trees(TP=TP,FN=FN,TN=TN,FP=FP,study=study,data=MMSE)
 }
 \keyword{file}

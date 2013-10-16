@@ -1,6 +1,6 @@
-Changes in Version 0.1-0 (2013-12-16)
+Changes in Version 0.1-1 (2014-10-16)
 =====================================
 
-   o The package has been created.
+   o Changes made in the imperfect.trees() and perfect.trees() according to the update of the depended package "mpt"
 
   

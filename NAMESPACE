@@ -1,3 +1,7 @@
+import(Matrix) # needed?
+importFrom(mpt, mpt)
+importFrom(lme4, glmer)
+
 exportPattern("^[^\\.]")
 
 S3method(print, fit.bivar)
