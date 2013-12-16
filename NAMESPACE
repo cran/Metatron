@@ -1,0 +1,9 @@
+exportPattern("^[^\\.]")
+
+S3method(print, fit.bivar)
+
+S3method(summary, fit.bivar)
+
+S3method(print, imperfect.trees)
+
+S3method(print, perfect.trees)
